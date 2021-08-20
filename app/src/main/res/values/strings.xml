@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Funny Games</string>
+    <string name="otvet">Введите ответ...</string>
+    <string name="next">NEXT</string>
+    <string name="to_quiz">TO QUIZ</string>
+    <string name="answer">Ответить</string>
+</resources>
